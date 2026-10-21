@@ -1,0 +1,20 @@
+"""Match score keeping."""
+from __future__ import annotations
+
+
+class ScoreManager:
+    def __init__(self) -> None:
+        self.reset()
+
+    def reset(self) -> None:
+        self.wins = [0, 0]
+        self.draws = 0
+        self.rounds_played = 0
+
+    def record_win(self, player_index: int) -> None:
+        self.wins[player_index] += 1
+        self.rounds_played += 1
+
+    def record_draw(self) -> None:
+        self.draws += 1          # a draw never changes either player's score
+        self.rounds_played += 1
