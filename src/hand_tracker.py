@@ -1,4 +1,4 @@
-"""Hand tracker: MediaPipe wrapper returning plain Python hand objects.
+"""Hand tracking: MediaPipe wrapper returning plain Python hand objects.
 
 Supports BOTH MediaPipe APIs:
   * legacy  mp.solutions.hands   (mediapipe <= ~0.10.21, model bundled, no download)

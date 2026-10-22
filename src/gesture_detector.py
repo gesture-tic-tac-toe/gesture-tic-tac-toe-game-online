@@ -1,4 +1,4 @@
-"""Gesture / selection logic: coordinate mapping, smoothing, dwell confirmation.
+"""Gesture detection and selection logic: coordinate mapping, smoothing, dwell confirmation.
 
 Nothing here imports OpenCV, MediaPipe or Pygame, so it is fully unit-testable.
 """
