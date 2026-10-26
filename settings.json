@@ -1,0 +1,43 @@
+{
+  "window_size": [
+    1280,
+    720
+  ],
+  "camera_index": 0,
+  "camera_size": [
+    640,
+    480
+  ],
+  "mirror": true,
+  "fps_limit": 30,
+  "board_rect": [
+    110,
+    80,
+    540,
+    540
+  ],
+  "cell_deadzone": 10,
+  "dwell_time": 1.0,
+  "ui_dwell_time": 1.0,
+  "dwell_grace": 0.3,
+  "smoothing": 0.45,
+  "player_names": [
+    "Player 1",
+    "Player 2"
+  ],
+  "first_player": 0,
+  "alternate_first": true,
+  "preserve_score": true,
+  "use_player_zones": false,
+  "symbol_gestures": true,
+  "mode": "ai",
+  "ai_level": "medium",
+  "match_target": 3,
+  "turn_timer": 0,
+  "countdown": true,
+  "wink_exit": true,
+  "theme": "midnight",
+  "debug": false,
+  "sound": true,
+  "language": "en"
+}

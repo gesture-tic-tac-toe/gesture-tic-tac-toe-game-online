@@ -1,0 +1,29 @@
+{
+  "rounds": 4,
+  "streak": 0,
+  "best_streak": 2,
+  "matches_won": 0,
+  "matches_lost": 0,
+  "ai": {
+    "easy": {
+      "w": 0,
+      "l": 0,
+      "d": 0
+    },
+    "medium": {
+      "w": 2,
+      "l": 1,
+      "d": 1
+    },
+    "hard": {
+      "w": 0,
+      "l": 0,
+      "d": 0
+    }
+  },
+  "pvp": {
+    "p1": 0,
+    "p2": 0,
+    "d": 0
+  }
+}
