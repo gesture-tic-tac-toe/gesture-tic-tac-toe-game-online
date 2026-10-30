@@ -1,5 +1,5 @@
 {
-  "rounds": 4,
+  "rounds": 5,
   "streak": 0,
   "best_streak": 2,
   "matches_won": 0,
@@ -22,7 +22,7 @@
     }
   },
   "pvp": {
-    "p1": 0,
+    "p1": 1,
     "p2": 0,
     "d": 0
   }
