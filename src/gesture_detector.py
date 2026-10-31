@@ -147,7 +147,7 @@ def _hand_size(lm: Sequence[Point]) -> float:
 def _finger_ratio(lm: Sequence[Point], tip: int, pip: int) -> float:
     return math.dist(lm[0], lm[tip]) / max(math.dist(lm[0], lm[pip]), 1e-6)
 
-
+#main function
 def classify_gesture(lm: Sequence[Point]):
     """Which symbol is this hand showing?
 
