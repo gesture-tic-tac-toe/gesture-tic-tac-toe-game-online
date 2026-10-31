@@ -30,7 +30,7 @@
   "preserve_score": true,
   "use_player_zones": false,
   "symbol_gestures": true,
-  "mode": "ai",
+  "mode": "pvp",
   "ai_level": "medium",
   "match_target": 3,
   "turn_timer": 0,

@@ -6,12 +6,8 @@ numpy	Array math for camera frames and generated sounds
 json	Save and load settings and stats
 dataclasses	Simple data classes (Config, Button, Player, etc.)
 pathlib	File paths for fonts, models, sounds, settings
-enum	Game states and move results
 typing	Type hints
 random	AI moves, timeouts, confetti
 math	Distance calculations for gestures, animation math
 time	Timestamps for dwell and countdown timers
 datetime	Screenshot file names
-sys	Exit code, Windows detection
-urllib.request	Downloads MediaPipe model files
-__future__	Postponed type annotation evaluation

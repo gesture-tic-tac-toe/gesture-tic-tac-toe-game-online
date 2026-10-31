@@ -7,7 +7,7 @@ from __future__ import annotations
 import sys
 import time
 from datetime import datetime
-
+#main library pygame 
 import pygame
 
 from src.audio_manager import AudioManager
